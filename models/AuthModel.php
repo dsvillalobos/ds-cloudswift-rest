@@ -9,7 +9,7 @@ function signIn($conn, $email, $password)
         $stmt->execute();
         $user = $stmt->fetch(PDO::FETCH_ASSOC);
 
-        if ($user && password_verify($password, $user['Password'])) {
+        if ($user && password_verify($password, $user["Password"])) {
             return $user;
         } else {
             return null;
