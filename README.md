@@ -10,6 +10,6 @@ Below is the DS CloudSwift’s app architecture diagram, which is a visual repre
 
 ![DS CloudSwift's Architecture Diagram](./public/images/readme/architecture-diagram.png)
 
-###### DS CloudSwift - RESTful Web Service | Version 2.0.4
+###### DS CloudSwift - RESTful Web Service | Version 2.0.5
 
 See also: [DS CloudSwift](https://github.com/dsvillalobos/ds-cloudswift)
